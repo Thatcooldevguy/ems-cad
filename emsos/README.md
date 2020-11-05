@@ -4,7 +4,7 @@ In the project directory, you can run:
 
 ### `yarn start`
 
-***NOTE***: Please run the following before running the below: npm i && yarn install (first time run only. Run in ems-cad dir)
+***NOTE***: Please run the following before running the below: npm i && yarn install (first time run only)
 
 **START THE INTENAL DB FIRST**:  json-server --watch db.json --port 5000 (in ems-cad dir)
 
