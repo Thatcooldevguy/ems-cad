@@ -1,0 +1,2502 @@
+{
+    "EMS": [
+      {
+        "id": "2",
+        "Callsign": "101",
+        "Name": "Craig Saperstein",
+        "Rank": "Chief",
+        "Hired By": "Tommy Jones",
+        "Date": "02/25/20",
+        "Timezone": "CST",
+        "Discord": "YaBoiGoat#9434",
+        "Steam": "Bappo",
+        "Phone #": "408-220-5614"
+      },
+      {
+        "id": "3",
+        "Callsign": "102",
+        "Name": "Jackie Wang",
+        "Rank": "Assistant Chief",
+        "Hired By": "Billy Kaplan-Smith",
+        "Date": "05/03/20",
+        "Timezone": "EST",
+        "Discord": "Jackie Wang#3662",
+        "Steam": "Jackie Wang",
+        "Phone #": "814-232-6867"
+      },
+      {
+        "id": "4",
+        "Callsign": "103",
+        "Name": "/",
+        "Rank": "/",
+        "Hired By": "/",
+        "Date": "/",
+        "Timezone": "/",
+        "Discord": "/",
+        "Steam": "/"
+      },
+      {
+        "id": "5",
+        "Callsign": "201",
+        "Name": "Jacenda Clarke",
+        "Rank": "Head of Psychology",
+        "Hired By": "Craig Saperstein",
+        "Date": "04/28/20",
+        "Timezone": "CST",
+        "Discord": "Jace#0575",
+        "Steam": "PandaKween10",
+        "Phone #": "725-062-6652"
+      },
+      {
+        "id": "6",
+        "Callsign": "301"
+      },
+      {
+        "id": "7",
+        "Callsign": "401",
+        "Name": "Gale Summers",
+        "Rank": "Head of Gen. Surgery",
+        "Hired By": "Craig Saperstein",
+        "Date": "05/14/20",
+        "Timezone": "PST",
+        "Discord": "DishNetworkJoel#6578",
+        "Steam": "Eddie Murphy",
+        "Phone #": "911"
+      },
+      {
+        "id": "8",
+        "Callsign": "501",
+        "Name": "Casey Demerzel",
+        "Rank": "Head Of Neurology",
+        "Hired By": "Craig Saperstein",
+        "Date": "08/19/20",
+        "Timezone": "PST",
+        "Discord": "Demerzel#7060",
+        "Steam": "Demerzel",
+        "Phone #": "858-841-1524"
+      },
+      {
+        "id": "9",
+        "Hired By": "Administration"
+      },
+      {
+        "id": "10",
+        "Callsign": "A01",
+        "Name": "Zane Ingram",
+        "Rank": "Administrator",
+        "Hired By": "Craig Saperstein",
+        "Date": "06/01/20",
+        "Timezone": "CST",
+        "Discord": "Joker#4703",
+        "Steam": "Joker",
+        "Phone #": "779-845-9405"
+      },
+      {
+        "id": "11",
+        "Callsign": "A02",
+        "Name": "Casey Demerzel",
+        "Rank": "Administrator",
+        "Hired By": "Craig Saperstein",
+        "Date": "08/19/20",
+        "Timezone": "PST",
+        "Discord": "Demerzel#7060",
+        "Steam": "Demerzel",
+        "Phone #": "858-841-1524"
+      },
+      {
+        "id": "13",
+        "Callsign": "402",
+        "Name": "/",
+        "Rank": "Resident",
+        "Hired By": "/",
+        "Date": "/",
+        "Timezone": "/",
+        "Discord": "/",
+        "Steam": "/",
+        "Phone #": "/"
+      },
+      {
+        "id": "14",
+        "Callsign": "403",
+        "Name": "/",
+        "Rank": "Resident",
+        "Hired By": "/",
+        "Date": "/",
+        "Timezone": "/",
+        "Discord": "/",
+        "Steam": "/",
+        "Phone #": "/"
+      },
+      {
+        "id": "15",
+        "Callsign": "404",
+        "Name": "Alfredo Wang",
+        "Rank": "Resident",
+        "Hired By": "Craig Saperstein",
+        "Date": "8/19/20",
+        "Timezone": "EST",
+        "Discord": "Tikii#9460",
+        "Steam": "Tikii",
+        "Phone #": "227-629-3020"
+      },
+      {
+        "id": "16",
+        "Callsign": "405",
+        "Name": "/",
+        "Rank": "Resident",
+        "Hired By": "/",
+        "Date": "/",
+        "Timezone": "/",
+        "Discord": "/",
+        "Steam": "/",
+        "Phone #": "/"
+      },
+      {
+        "id": "17",
+        "Callsign": "406",
+        "Name": "/",
+        "Rank": "Resident",
+        "Hired By": "/",
+        "Date": "/",
+        "Timezone": "/",
+        "Discord": "/",
+        "Steam": "/",
+        "Phone #": "/"
+      },
+      {
+        "id": "18",
+        "Callsign": "407",
+        "Name": "/",
+        "Rank": "Resident",
+        "Hired By": "/",
+        "Date": "/",
+        "Timezone": "/",
+        "Discord": "/",
+        "Steam": "/",
+        "Phone #": "/"
+      },
+      {
+        "id": "19",
+        "Callsign": "408",
+        "Name": "/",
+        "Rank": "Resident",
+        "Hired By": "/",
+        "Date": "/",
+        "Timezone": "/",
+        "Discord": "/",
+        "Steam": "/",
+        "Phone #": "/"
+      },
+      {
+        "id": "20",
+        "Callsign": "409",
+        "Name": "/",
+        "Rank": "Resident",
+        "Hired By": "/",
+        "Date": "/",
+        "Timezone": "/",
+        "Discord": "/",
+        "Steam": "/",
+        "Phone #": "/"
+      },
+      {
+        "id": "21",
+        "Callsign": "410",
+        "Name": "/",
+        "Rank": "Resident",
+        "Hired By": "/",
+        "Date": "/",
+        "Timezone": "/",
+        "Discord": "/",
+        "Steam": "/",
+        "Phone #": "/"
+      },
+      {
+        "id": "22",
+        "Hired By": "Paramedic"
+      },
+      {
+        "id": "23",
+        "Callsign": "601",
+        "Name": "Jkup Smit",
+        "Rank": "Paramedic",
+        "Hired By": "Craig Saperstein",
+        "Date": "08/20/20",
+        "Timezone": "EST",
+        "Discord": "Pepe dai froug#2046",
+        "Steam": "hayden",
+        "Phone #": "442-973-6071"
+      },
+      {
+        "id": "24",
+        "Callsign": "602",
+        "Name": "Lily Winferd",
+        "Rank": "Paramedic",
+        "Hired By": "Billy Kaplan-Smith",
+        "Date": "09/11/20",
+        "Timezone": "MDT",
+        "Discord": " Luna#1739",
+        "Steam": "Luna",
+        "Phone #": "389-561-2340"
+      },
+      {
+        "id": "25",
+        "Callsign": "603",
+        "Name": "/",
+        "Rank": "Paramedic",
+        "Hired By": "/",
+        "Date": "/",
+        "Timezone": "/",
+        "Discord": "/",
+        "Steam": "/",
+        "Phone #": "/"
+      },
+      {
+        "id": "26",
+        "Callsign": "604",
+        "Name": "Mike Newman",
+        "Rank": "Paramedic",
+        "Hired By": "Jackie Wang",
+        "Date": "09/18/20",
+        "Timezone": "MST",
+        "Discord": "AGENT-MIKE02#8164",
+        "Steam": "AGENT MIKE",
+        "Phone #": "213-425-5775"
+      },
+      {
+        "id": "27",
+        "Callsign": "605",
+        "Name": "Tommy Jones",
+        "Rank": "Paramedic",
+        "Hired By": "Craig Saperstein",
+        "Date": "9/28/20",
+        "Timezone": "CST",
+        "Discord": "Tacos#2245",
+        "Steam": "Tacos"
+      },
+      {
+        "id": "28",
+        "Callsign": "606",
+        "Name": "/",
+        "Rank": "Paramedic",
+        "Hired By": "/",
+        "Date": "/",
+        "Timezone": "/",
+        "Discord": "/",
+        "Steam": "/",
+        "Phone #": "/"
+      },
+      {
+        "id": "29",
+        "Callsign": "607",
+        "Name": "/",
+        "Rank": "Paramedic",
+        "Hired By": "/",
+        "Date": "/",
+        "Timezone": "/",
+        "Discord": "/",
+        "Steam": "/",
+        "Phone #": "/"
+      },
+      {
+        "id": "30",
+        "Callsign": "608",
+        "Name": "Annie Reinhardt",
+        "Rank": "Paramedic",
+        "Hired By": "Billy Kaplan-Smith",
+        "Date": "09/14/20",
+        "Timezone": "EST",
+        "Discord": "Altei#4726",
+        "Steam": "Altei",
+        "Phone #": "337-260-7065"
+      },
+      {
+        "id": "31",
+        "Callsign": "609",
+        "Name": "/",
+        "Rank": "Paramedic",
+        "Hired By": "/",
+        "Date": "/",
+        "Timezone": "/",
+        "Discord": "/",
+        "Steam": "/",
+        "Phone #": "/"
+      },
+      {
+        "id": "32",
+        "Callsign": "610",
+        "Name": "/",
+        "Rank": "Paramedic",
+        "Hired By": "/",
+        "Date": "/",
+        "Timezone": "/",
+        "Discord": "/",
+        "Steam": "/",
+        "Phone #": "/"
+      },
+      {
+        "id": "33",
+        "Callsign": "611",
+        "Name": "/",
+        "Rank": "Paramedic",
+        "Hired By": "/",
+        "Date": "/",
+        "Timezone": "/",
+        "Discord": "/",
+        "Steam": "/",
+        "Phone #": "/"
+      },
+      {
+        "id": "34",
+        "Callsign": "612",
+        "Name": "/",
+        "Rank": "Paramedic",
+        "Hired By": "/",
+        "Date": "/",
+        "Timezone": "/",
+        "Discord": "/",
+        "Steam": "/",
+        "Phone #": "/"
+      },
+      {
+        "id": "35",
+        "Callsign": "613",
+        "Name": "/",
+        "Rank": "Paramedic",
+        "Hired By": "/",
+        "Date": "/",
+        "Timezone": "/",
+        "Discord": "/",
+        "Steam": "/",
+        "Phone #": "/"
+      },
+      {
+        "id": "36",
+        "Callsign": "614",
+        "Name": "/",
+        "Rank": "Paramedic",
+        "Hired By": "/",
+        "Date": "/",
+        "Timezone": "/",
+        "Discord": "/",
+        "Steam": "/",
+        "Phone #": "/"
+      },
+      {
+        "id": "37",
+        "Callsign": "615",
+        "Name": "/",
+        "Rank": "Paramedic",
+        "Hired By": "/",
+        "Date": "/",
+        "Timezone": "/",
+        "Discord": "/",
+        "Steam": "/",
+        "Phone #": "/"
+      },
+      {
+        "id": "39",
+        "Callsign": "701",
+        "Name": "Ester Nester",
+        "Rank": "EMT",
+        "Hired By": "Jackie Wang",
+        "Date": "8/8/20",
+        "Timezone": "PST",
+        "Discord": "Tweak2113#1726",
+        "Steam": "Tyler",
+        "Phone #": "/"
+      },
+      {
+        "id": "40",
+        "Callsign": "702",
+        "Name": "Richard Summers",
+        "Rank": "EMT",
+        "Hired By": "Craig Saperstein",
+        "Date": "09/08/20",
+        "Timezone": "EST",
+        "Discord": "Bear McGreggor#3392",
+        "Steam": "Bear McGreggor",
+        "Phone #": "/"
+      },
+      {
+        "id": "41",
+        "Callsign": "703",
+        "Name": "Bobby Valentino",
+        "Rank": "EMT",
+        "Hired By": "Jackie Wang",
+        "Date": "10/03/20",
+        "Timezone": "CST",
+        "Discord": "BrauBrau#5987",
+        "Steam": "Brau2000",
+        "Phone #": "/"
+      },
+      {
+        "id": "42",
+        "Callsign": "704",
+        "Name": "Napper Niles",
+        "Rank": "EMT",
+        "Hired By": "Jackie Wang",
+        "Date": "09/26/20",
+        "Timezone": "MST",
+        "Discord": "VA FallenN00B#5117",
+        "Steam": "FALLENN00B",
+        "Phone #": "/"
+      },
+      {
+        "id": "43",
+        "Callsign": "705",
+        "Name": "Gus Bonjobi",
+        "Rank": "EMT",
+        "Hired By": "Craig Saperstein",
+        "Date": "08/31/20",
+        "Timezone": "PST",
+        "Discord": "PackManTM#2014",
+        "Steam": "chimpcheese",
+        "Phone #": "731-461-8887"
+      },
+      {
+        "id": "44",
+        "Callsign": "706",
+        "Name": "/",
+        "Rank": "EMT",
+        "Hired By": "/",
+        "Date": "/",
+        "Timezone": "/",
+        "Discord": "/",
+        "Steam": "/",
+        "Phone #": "/"
+      },
+      {
+        "id": "45",
+        "Callsign": "707",
+        "Name": "Big Capo",
+        "Rank": "EMT",
+        "Hired By": "Craig Saperstein",
+        "Date": "09/15/20",
+        "Timezone": "CST",
+        "Discord": "captain apex#8152",
+        "Steam": "big boi apex",
+        "Phone #": "/"
+      },
+      {
+        "id": "46",
+        "Callsign": "708",
+        "Name": "Methalina Lena",
+        "Rank": "EMT",
+        "Hired By": "Jackie Wang",
+        "Date": "10/04/20",
+        "Timezone": "CST",
+        "Discord": "Archangel Diablo#8690",
+        "Steam": "Ostrogos",
+        "Phone #": "/"
+      },
+      {
+        "id": "47",
+        "Callsign": "709",
+        "Name": "Alexi Kalashkarov",
+        "Rank": "EMT",
+        "Hired By": "Craig Saperstein",
+        "Date": "10/10/20",
+        "Timezone": "GMT",
+        "Discord": "Spookied#7962",
+        "Steam": "Spookied",
+        "Phone #": "/"
+      },
+      {
+        "id": "48",
+        "Callsign": "710",
+        "Name": "Russle  Stovers ",
+        "Rank": "EMT",
+        "Hired By": "Craig Saperstein",
+        "Date": "10/11/20",
+        "Timezone": "EST",
+        "Discord": "frodo16#5642",
+        "Steam": "Tobbyturtle11 ",
+        "Phone #": "/"
+      },
+      {
+        "id": "49",
+        "Callsign": "711",
+        "Name": "Cameron James",
+        "Rank": "EMT",
+        "Hired By": "Craig Saperstein",
+        "Date": "10/11/20",
+        "Timezone": "EST",
+        "Discord": "Lightsoutツ#5999",
+        "Steam": "Lightsout",
+        "Phone #": "/"
+      },
+      {
+        "id": "50",
+        "Callsign": "712",
+        "Name": "Dan Daniels",
+        "Rank": "EMT",
+        "Hired By": "Jackie Wang",
+        "Date": "10/04/20",
+        "Timezone": "EST",
+        "Discord": "EzMj#7586",
+        "Steam": "EzMj",
+        "Phone #": "/"
+      },
+      {
+        "id": "51",
+        "Callsign": "713",
+        "Name": "Sika Sky",
+        "Rank": "EMT",
+        "Hired By": "Craig Saperstein",
+        "Date": "10/11/20",
+        "Timezone": "EST",
+        "Discord": "ThisKingJoker#3004",
+        "Steam": "Joker703",
+        "Phone #": "/"
+      },
+      {
+        "id": "52",
+        "Callsign": "714",
+        "Name": "/",
+        "Rank": "EMT",
+        "Hired By": "/",
+        "Date": "/",
+        "Timezone": "/",
+        "Discord": "/",
+        "Steam": "/",
+        "Phone #": "/"
+      },
+      {
+        "id": "53",
+        "Callsign": "715",
+        "Name": "/",
+        "Rank": "EMT",
+        "Hired By": "/",
+        "Date": "/",
+        "Timezone": "/",
+        "Discord": "/",
+        "Steam": "/",
+        "Phone #": "/"
+      },
+      {
+        "id": "54",
+        "Hired By": "Recruit"
+      },
+      {
+        "id": "55",
+        "Callsign": "R01",
+        "Name": "Paul Brown",
+        "Rank": "Recruit",
+        "Hired By": "Casey Demerzel",
+        "Date": "10/21/20",
+        "Timezone": "GMT+3",
+        "Discord": "MasHMasH#5068",
+        "Steam": "Angel",
+        "Phone #": "626-860-3068"
+      },
+      {
+        "id": "56",
+        "Callsign": "R02",
+        "Name": "Lisa Bjornstad",
+        "Rank": "Recruit",
+        "Hired By": "Jackie Wang",
+        "Date": "10/23/20",
+        "Timezone": "GMT+2",
+        "Discord": "Hege#4128",
+        "Steam": "Draagen",
+        "Phone #": "/"
+      },
+      {
+        "id": "57",
+        "Callsign": "R03",
+        "Name": "Desmond Doss",
+        "Rank": "Recruit",
+        "Hired By": "Casey Demerzel",
+        "Date": "10/25/20",
+        "Timezone": "CST",
+        "Discord": "Rami#5825",
+        "Steam": "Officialazark",
+        "Phone #": "/"
+      },
+      {
+        "id": "58",
+        "Callsign": "R04",
+        "Name": "Remmy Johnson",
+        "Rank": "Recruit",
+        "Hired By": "Casey Demerzel",
+        "Date": "10/23/20",
+        "Timezone": "MDT",
+        "Discord": "Henny#0396",
+        "Steam": "Henny",
+        "Phone #": "156-311-3376"
+      },
+      {
+        "id": "59",
+        "Callsign": "R05",
+        "Name": "Viktor Reznov",
+        "Rank": "Recruit",
+        "Hired By": "Craig Saperstein",
+        "Date": "10/11/20",
+        "Timezone": "CST",
+        "Discord": "Astrov#0001",
+        "Steam": "Reznov",
+        "Phone #": "/"
+      },
+      {
+        "id": "60",
+        "Callsign": "R06",
+        "Name": "Chistian Johnson",
+        "Rank": "Recruit",
+        "Hired By": "Casey Demerzel",
+        "Date": "10/25/20",
+        "Timezone": "EST",
+        "Discord": "Kcgod95#4184",
+        "Steam": "Kcgod95",
+        "Phone #": "/"
+      },
+      {
+        "id": "61",
+        "Callsign": "R07",
+        "Name": "Christon Dunn",
+        "Rank": "Recruit",
+        "Hired By": "Craig Saperstein",
+        "Date": "10/11/20",
+        "Timezone": "EST",
+        "Discord": "ibuki buu#3816",
+        "Steam": "nexusmcu",
+        "Phone #": "/"
+      },
+      {
+        "id": "62",
+        "Callsign": "R08",
+        "Phone #": "/"
+      },
+      {
+        "id": "63",
+        "Callsign": "R09",
+        "Name": "Carl Johnson",
+        "Rank": "Recruit",
+        "Hired By": "Craig Saperstein",
+        "Date": "10/14/20",
+        "Timezone": "CEST",
+        "Discord": "noterjon#3149",
+        "Steam": "noterjon",
+        "Phone #": "/"
+      },
+      {
+        "id": "64",
+        "Callsign": "R10",
+        "Name": "Josh Mays ",
+        "Rank": "Recruit",
+        "Hired By": "Casey Demerzel",
+        "Date": "10/31/20",
+        "Timezone": "/",
+        "Discord": "SampsonTheGod#3050",
+        "Steam": "Your Wife Cheats",
+        "Phone #": "/"
+      },
+      {
+        "id": "65",
+        "Callsign": "R11",
+        "Name": "Doctor Who",
+        "Rank": "Recruit",
+        "Hired By": "Jackie Wang",
+        "Date": "10/28/20",
+        "Timezone": "EST",
+        "Discord": "Lotuss #7825",
+        "Steam": "UnkindledLotuss",
+        "Phone #": "/"
+      },
+      {
+        "id": "66",
+        "Callsign": "R12",
+        "Name": "George Hanker",
+        "Rank": "Recruit",
+        "Hired By": "Casey Demerzel",
+        "Date": "10/13/20",
+        "Timezone": "EST",
+        "Discord": "Tunes#4200",
+        "Steam": "Tunes",
+        "Phone #": "183-992-6198"
+      },
+      {
+        "id": "67",
+        "Callsign": "R13"
+      },
+      {
+        "id": "68",
+        "Callsign": "R14",
+        "Name": "Jacob AJ",
+        "Rank": "Recruit",
+        "Hired By": "Casey Demerzel",
+        "Date": "10/29/20",
+        "Timezone": "EST",
+        "Discord": "! ᗷᘜ | 3b3b #0001",
+        "Steam": "3b3b",
+        "Phone #": "241-045-7612"
+      },
+      {
+        "id": "69",
+        "Callsign": "R15",
+        "Name": "Dave Vise",
+        "Rank": "Recruit",
+        "Hired By": "Casey Demerzel",
+        "Date": "10/31/20",
+        "Timezone": "EST",
+        "Discord": "sticks™#6436",
+        "Steam": "sticks",
+        "Phone #": "582-958-7017"
+      }
+    ],
+    "Psychology": [
+      {
+        "id": "1",
+        "Callsign": "201",
+        "Name": "Jacenda Clarke",
+        "Rank": "Head of Psychology",
+        "Hired By": "Craig Saperstein",
+        "Date": "04/28/20",
+        "Timezone": "CST",
+        "Discord": "Jace#0575",
+        "Steam": "PandaKween10",
+        "Phone #": "725-062-6652"
+      },
+      {
+        "id": "2",
+        "Callsign": "202",
+        "Name": "White Diamond",
+        "Rank": "Attending",
+        "Hired By": "Billy Kaplan-Smith",
+        "Date": "7/27/20",
+        "Timezone": "CST",
+        "Discord": "oGiizzyy#2841",
+        "Steam": "oGiizzyy_TTV",
+        "Phone #": "677-716-9372"
+      },
+      {
+        "id": "3",
+        "Callsign": "203",
+        "Name": "Madison Chupador",
+        "Rank": "Attending",
+        "Hired By": "Billy Kaplan-Smith",
+        "Date": "/",
+        "Timezone": "CST",
+        "Discord": "Madison",
+        "Phone #": "/"
+      },
+      {
+        "id": "4", 
+        "Callsign": "204",
+        "Name": "/",
+        "Rank": "Attending",
+        "Hired By": "/",
+        "Date": "/",
+        "Timezone": "/",
+        "Discord": "/",
+        "Steam": "/",
+        "Phone #": "/"
+      },
+      {
+        "id": "5", 
+        "Callsign": "205",
+        "Name": "/",
+        "Rank": "Attending",
+        "Hired By": "/",
+        "Date": "/",
+        "Timezone": "/",
+        "Discord": "/",
+        "Steam": "/",
+        "Phone #": "/"
+      },
+      {
+        "id": "6", 
+        "Callsign": "206",
+        "Name": "/",
+        "Rank": "Attending",
+        "Hired By": "/",
+        "Date": "/",
+        "Timezone": "/",
+        "Discord": "/",
+        "Steam": "/",
+        "Phone #": "/"
+      },
+      {
+        "id": "7", 
+        "Callsign": "207",
+        "Name": "Jagger Pushaman",
+        "Rank": "Resident",
+        "Hired By": "Craig Saperstein",
+        "Date": "8/19/20",
+        "Timezone": "MST",
+        "Discord": "Jagger#7275",
+        "Steam": "Jagger",
+        "Phone #": "443-978-6215"
+      },
+      {
+        "id": "8", 
+        "Callsign": "208",
+        "Name": "/",
+        "Rank": "Resident",
+        "Hired By": "/",
+        "Date": "/",
+        "Timezone": "/",
+        "Discord": "/",
+        "Steam": "/",
+        "Phone #": "/"
+      },
+      {
+        "id": "9", 
+        "Callsign": "209",
+        "Name": "/",
+        "Rank": "Resident",
+        "Hired By": "/",
+        "Date": "/",
+        "Timezone": "/",
+        "Discord": "/",
+        "Steam": "/",
+        "Phone #": "/"
+      },
+      {
+        "id": "10", 
+        "Callsign": "210",
+        "Name": "/",
+        "Rank": "Resident",
+        "Hired By": "/",
+        "Date": "/",
+        "Timezone": "/",
+        "Discord": "/",
+        "Steam": "/",
+        "Phone #": "/"
+      },
+      {
+        "id": "11", 
+        "Callsign": "211",
+        "Name": "/",
+        "Rank": "Resident",
+        "Hired By": "/",
+        "Date": "/",
+        "Timezone": "/",
+        "Discord": "/",
+        "Steam": "/",
+        "Phone #": "/"
+      }
+    ],
+    "Neurology": [
+      {
+        "id": "2",
+        "Callsign": "501",
+        "Name": "Casey Demerzel",
+        "Rank": "Head Of Neurology",
+        "Hired By": "Craig Saperstein",
+        "Date": "08/19/20",
+        "Timezone": "PST",
+        "Discord": "Demerzel#7060",
+        "Steam": "Demerzel",
+        "Phone #": "858-841-1524",
+        "Bonus": "FALSE",
+        "Promotions": "/"
+      },
+      {
+        "id": "3",
+        "Callsign": "502",
+        "Name": "/",
+        "Rank": "Attending",
+        "Bonus": "FALSE",
+        "Promotions": "/"
+      },
+      {
+        "id": "4",
+        "Callsign": "503",
+        "Name": "/",
+        "Rank": "Attending",
+        "Bonus": "FALSE",
+        "Promotions": "/"
+      },
+      {
+        "id": "5",
+        "Callsign": "504",
+        "Name": "/",
+        "Rank": "Attending",
+        "Hired By": "/",
+        "Date": "/",
+        "Timezone": "/",
+        "Discord": "/",
+        "Steam": "/",
+        "Phone #": "/",
+        "Bonus": "FALSE",
+        "Promotions": "/"
+      },
+      {
+        "id": "6",
+        "Callsign": "505",
+        "Name": "/",
+        "Rank": "Attending",
+        "Hired By": "/",
+        "Date": "/",
+        "Timezone": "/",
+        "Discord": "/",
+        "Steam": "/",
+        "Phone #": "/",
+        "Bonus": "FALSE",
+        "Promotions": "/"
+      },
+      {
+        "id": "7",
+        "Callsign": "506",
+        "Name": "/",
+        "Rank": "Attending",
+        "Hired By": "/",
+        "Date": "/",
+        "Timezone": "/",
+        "Discord": "/",
+        "Steam": "/",
+        "Phone #": "/",
+        "Bonus": "FALSE",
+        "Promotions": "/"
+      }
+    ]
+    }
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
